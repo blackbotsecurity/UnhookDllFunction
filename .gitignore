@@ -3,6 +3,9 @@
 *.user
 *.sln.docstates
 
+# Ruleset files
+*.ruleset
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
